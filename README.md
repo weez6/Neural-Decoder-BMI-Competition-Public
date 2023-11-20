@@ -4,4 +4,4 @@ An offline decoder for predicting arm trajectories in 8 directions from monkey n
 
 To test, run testFunction_for_students_MTb which uses positionEstimator, positionEstimatorTraining, and the data. 
  
-Submitted for the 2023 Imperial Bioengineering Brain Machine Interfaces course competition and won 1st place (based on RMSE accuracy and run-time). 
+Submitted for the 2023 Imperial Bioengineering Brain Machine Interfaces course competition and won 1st place (based on RMSE accuracy and run-time). Authors: Lito Chatzidavari, Andreea Cojocea, Raluca Constantinescu, Eloise Hatton
